@@ -8,3 +8,7 @@ resources:
 - ../../base
 patchesStrategicMerge:
 - front-deployment-patch.yaml
+<<<<<<< HEAD
+=======
+# - front-service-patch.yaml
+>>>>>>> f12c9ed (Add github action with ArgoCD)
